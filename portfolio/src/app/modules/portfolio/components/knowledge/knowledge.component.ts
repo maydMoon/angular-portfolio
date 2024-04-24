@@ -29,8 +29,8 @@ export class KnowledgeComponent {
       alt: 'Ícone de conhecimento de angular',
     },
     {
-      src: 'assets/icons/knowledge/nodejs.svg',
-      alt: 'Ícone de conhecimento de nodejs',
+      src: 'assets/icons/knowledge/python.svg',
+      alt: 'Ícone de conhecimento de python',
     },
   ]);
 }
